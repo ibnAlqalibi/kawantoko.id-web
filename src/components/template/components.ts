@@ -1,0 +1,13 @@
+export { default as Impacts } from "@/components/template/Impacts";
+export { default as Billing } from "@/components/template/Billing";
+export { default as Business } from "@/components/template/Business";
+export { default as CardDeal } from "@/components/template/CardDeal";
+export { default as Tenants } from "@/components/template/Tenants";
+export { default as Clients } from "@/components/template/Clients";
+export { default as CTA } from "@/components/template/CTA";
+export { default as Footer } from "@/components/template/Footer";
+export { default as GetStarted } from "@/components/template/GetStarted";
+export { default as Hero } from "@/components/template/Hero";
+export { default as Navbar } from "@/components/template/Navbar";
+export { default as Stats } from "@/components/template/Stats";
+export { default as Testimonials } from "@/components/template/Testimonials";

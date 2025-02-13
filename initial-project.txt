@@ -1,0 +1,16 @@
+bun create @vite-pwa/pwa . --template react-ts
+
+bun i react-router
+
+# jadikan satu semua tsconfig
+# tailwindcss
+
+√ PWA Name: ... KawanToko.ID
+√ PWA Short Name: ... KaTok-in
+√ PWA Description: ... Kawan Toko Indonesia adalah sebuah platform untuk percepatan penjualan UMKM indonesia menuju digitalisasi yang mudah dan tepat sasaran
+√ Theme color: ... #ffffff
+√ Select a strategy: » injectManifest
+√ Select a behavior: » Prompt for update
+√ Enable periodic SW updates? ... yes
+√ Show offline ready prompt? ... yes
+√ Generate PWA Assets Icons on the fly? ... yes
